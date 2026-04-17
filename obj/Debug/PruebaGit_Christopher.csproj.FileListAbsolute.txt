@@ -1,0 +1,10 @@
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\bin\Debug\PruebaGit_Christopher.exe.config
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\bin\Debug\PruebaGit_Christopher.exe
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\bin\Debug\PruebaGit_Christopher.pdb
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.csproj.AssemblyReference.cache
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.Form1.resources
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.Properties.Resources.resources
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.csproj.GenerateResource.cache
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.csproj.CoreCompileInputs.cache
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.exe
+C:\Users\desarrollo03\Desktop\REPO_CHRISTOPHER\PruebaGit_Christopher\obj\Debug\PruebaGit_Christopher.pdb
